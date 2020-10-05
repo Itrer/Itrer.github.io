@@ -2,7 +2,7 @@ title: To be guru 유의미한 노력을 하고 정리하는 개발자
 lang: ko
 description: wow
 
-theme: null
+theme: rundocs/jekyll-rtd-theme
 
 # debug:
 #   compress: true
